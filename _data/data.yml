@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Mohammad Ali Bhuiyan
-  tagline: "Passionate Software Developer | Full-Stack Development | Cybersecurity"
+  tagline: "Software Developer | Full-Stack Development | Cybersecurity"
   avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the file name
 
   # Sidebar links
@@ -47,18 +47,12 @@ sidebar:
     info:
       - item: "Reading"
       - item: "Cybersecurity"
-      - item: "Open Source Contributions"
+
 
 career-profile:
-  title: "Career Profile"
+  title: "Profile"
   summary: |
     Passionate software developer with expertise in full-stack development and cybersecurity.
-    Strong problem-solving abilities with 200+ solved algorithmic challenges.
-    Experienced in building scalable web applications using modern technologies like Spring Boot, React.js,
-    Node.js, and PostgreSQL. Proficient in cybersecurity tools including Burp Suite, Ghidra, and Wireshark.
-    Active participant in CTF competitions, including selection for CyberRaid 2025 hosted by the Bangladesh Army.
-    Skilled in containerization with Docker, CI/CD with GitHub Actions, and deployment on Azure.
-
 education:
   title: "Education"
   info:
@@ -139,10 +133,10 @@ skills:
       level: "85%"
 
     - name: "Cybersecurity Tools (e.g., Ghidra, Burp Suite)"
-      level: "80%"
+      level: "85%"
 
     - name: "Problem Solving (200+ problems)"
-      level: "75%"
+      level: "80%"
 
 footer: |
   Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/perplexed-me" target="_blank" rel="nofollow">Mohammad Ali Bhuiyan</a>
