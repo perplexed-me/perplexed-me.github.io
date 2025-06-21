@@ -10,7 +10,7 @@ url: 'http://webjeda.com'
 
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: cermic # blue turquoise green berry orange ceramic teal oceanstale
+theme_skin: ceramic # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: "#4a4948"
 
 # Tracker
