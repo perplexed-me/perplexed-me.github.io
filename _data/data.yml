@@ -1,0 +1,148 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right
+  about: True
+  education: True
+
+  # Profile information
+  name: Mohammad Ali Bhuiyan
+  tagline: "Passionate Software Developer | Full-Stack Development | Cybersecurity"
+  avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the file name
+
+  # Sidebar links
+  email: mohammad.23.mail@gmail.com
+  phone: +880 1884239493
+  timezone: Asia/Dhaka
+  citizenship: Bangladeshi
+  website: "https://github.com/perplexed-me"
+  linkedin: "mohammad-ali-bhuiyan"
+  github: perplexed-me
+  telegram:
+  gitlab:
+  bitbucket:
+  bluesky:
+  twitter:
+  stack-overflow:
+  codewars:
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
+
+  languages:
+    title: "Languages"
+    info:
+      - idiom: "Bangla"
+        level: "Native"
+
+      - idiom: "English"
+        level: "Working Proficiency"
+
+  interests:
+    title: "Interests"
+    info:
+      - item: "Reading"
+      - item: "Cybersecurity"
+      - item: "Open Source Contributions"
+
+career-profile:
+  title: "Career Profile"
+  summary: |
+    Passionate software developer with expertise in full-stack development and cybersecurity.
+    Strong problem-solving abilities with 200+ solved algorithmic challenges.
+    Experienced in building scalable web applications using modern technologies like Spring Boot, React.js,
+    Node.js, and PostgreSQL. Proficient in cybersecurity tools including Burp Suite, Ghidra, and Wireshark.
+    Active participant in CTF competitions, including selection for CyberRaid 2025 hosted by the Bangladesh Army.
+    Skilled in containerization with Docker, CI/CD with GitHub Actions, and deployment on Azure.
+
+education:
+  title: "Education"
+  info:
+    - degree: "B.Sc. in Computer Science and Engineering"
+      university: "Bangladesh University of Engineering and Technology (BUET)"
+      time: "Jan 2022 – Present"
+      details: |
+        - Currently Level 4, Term 1
+        - Strong foundation in algorithms, data structures, databases, and software engineering
+        - Engaged in competitive programming, open-source development, and project-based learning
+
+projects:
+  title: "Projects"
+  intro: |
+    Key projects showcasing expertise in full-stack development, microservices architecture, and cybersecurity applications.
+
+  assignments:
+    - title: "PulseIQ (Hospital Management System)"
+      link: "https://github.com/perplexed-me/PulseIQ"
+      tagline: |
+        A comprehensive Spring Boot + React microservices application for hospital management deployed on Azure.
+        - Microservices architecture with Spring Boot backend and React.js frontend
+        - Deployed on Microsoft Azure cloud platform
+        - Tech Stack: Spring Boot, React.js, PostgreSQL, Docker, Azure
+        - Features: User authentication, role-based access control, appointment scheduling, medical records, dashboards
+
+    - title: "ReadNTrade (Trading Platform)"
+      link: "https://github.com/perplexed-me/ReadNTrade_V03"
+      tagline: |
+        A full-featured trading platform built using Node.js and Express.js with real-time communication and authentication.
+        - Oracle PL/SQL for structured database schema
+        - Real-time chat using socket programming
+        - Tech Stack: Node.js, Express.js, Oracle, EJS, JavaScript, CSS
+
+    - title: "urProfResult (MBBS Result App)"
+      link: "https://github.com/perplexed-me/mbbsResultWebsite"
+      tagline: |
+        A responsive web application for MBBS result management.
+        - Backend in Flask and frontend in HTML/CSS
+        - Deployed on Vercel
+        - Tech: Python, Flask, SQLite, HTML/CSS, Vercel
+
+    - title: "MovieSite (Streaming Platform)"
+      link: "https://github.com/perplexed-me/movieStream.github.io"
+      tagline: |
+        A movie streaming platform using custom APIs.
+        - Built using JavaScript and deployed for public access
+        - Simple UI and backend communication
+
+    - title: "Downloader Extension"
+      link: "https://github.com/perplexed-me/polakExtensionDownloader"
+      tagline: |
+        A Chrome extension for downloading targeted web content.
+        - Tech Stack: JavaScript, HTML
+
+skills:
+  title: "Skills & Proficiency"
+  toolset:
+    - name: "Python, C, C++, JavaScript"
+      level: "95%"
+
+    - name: "Java, Shell Scripting"
+      level: "90%"
+
+    - name: "React.js & Spring Boot"
+      level: "92%"
+
+    - name: "PostgreSQL & MongoDB"
+      level: "90%"
+
+    - name: "Node.js & Express"
+      level: "88%"
+
+    - name: "Git & GitHub Actions"
+      level: "85%"
+
+    - name: "Docker & Azure"
+      level: "85%"
+
+    - name: "Cybersecurity Tools (e.g., Ghidra, Burp Suite)"
+      level: "80%"
+
+    - name: "Problem Solving (200+ problems)"
+      level: "75%"
+
+footer: |
+  Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/perplexed-me" target="_blank" rel="nofollow">Mohammad Ali Bhuiyan</a>
