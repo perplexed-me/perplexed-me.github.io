@@ -1,0 +1,21 @@
+
+/* Light-Dark palette based on #4a4948 */
+
+$theme-color:           #4a4948;                     // primary brand colour
+$brand-primary:         $theme-color;                // (alias if the theme still expects this)
+
+$text-color:            #2b2b2b;                     // main body text
+$text-color-secondary:  lighten($text-color, 20%);   // lighter headings & meta
+$text-grey:             lighten($text-color, 45%);   // muted descriptions
+
+$divider:               #e8e8e8;                     // horizontal rules
+$lighter-grey:          #cccccc;                     // hover borders, etc.
+$darker-grey:           #666666;                     // footer text, subtle accents
+
+$smoky-white:           mix(#4a4948, #ffffff, 8%);   // page background – off-white with a hint of the theme hue
+$heart:                 #fb866a;                     // accent icon colour (unchanged)
+
+$link-color:            $theme-color;                // link & button colour
+$link-hover-color:      darken($link-color, 5%);     // hover state
+
+@import "default";      // keep this last so all core styles pick up the variables above
